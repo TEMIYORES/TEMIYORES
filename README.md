@@ -20,7 +20,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://github.com/TEMIYORES/TEMIYORES/blob/master/qayyum.jpeg" width="600" height="300"/>
+  <img src="https://github.com/TEMIYORES/TEMIYORES/blob/master/qayyum.jpeg" width="600" height="500"/>
 </div>
 
 ---
